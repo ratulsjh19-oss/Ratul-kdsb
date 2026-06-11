@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Monarch",
+  "description": "Anime action RPG inspired by Solo Leveling. Complete daily workout quests, level up your traits, clear ranked dungeons, wield legendary daggers, extract shadows, command a shadow army, and consult the AI Monarch Core.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
